@@ -1,6 +1,4 @@
- # PHONEBOOK JAVA
-
-![blog-site-bforweb](https://github.com/alicemimouni/blog-bforweb/assets/82211729/acc08568-b8d6-4424-a00f-f427b43ed5bf)
+# PHONEBOOK JAVA
 
 ## Présentation
 
@@ -10,7 +8,6 @@ Cette application permet d'ajouter dans un fichier des coordonnées téléphoniq
 
 Dans le cadre de mon apprentissage de **Java** et de l'IDE **Eclipse**, j'ai réalisé ce petit projet afin de me familiariser avec Eclipse.
 
-
 ## Conclusion
 
-Ce projet m'a permis d'appronfondir mes connaissances du framework Symfony. J'ai pu découvrir EasyAdminBundle qui est vraiment très utile. À l'avenir, je prévois d'apporter des améliorations à ce projet, notamment en ajoutant la possibilité de laisser des commentaires et en améliorant le tableau de bord
+Je suis à mes débuts en Java, ce langage me plaît beaucoup, Eclipse est plutôt simple à prendre en main. C'est un tout petit projet mais je compte bien en faire d'autres plus complexes par la suite.
