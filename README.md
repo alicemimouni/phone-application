@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Cette application permet d'ajouter dans un fichier des coordonnées téléphoniques.
+ Application Java simple qui permet à l'utilisateur d'ajouter des contacts à un répertoire téléphonique. 
 
 ## Technologies utilisées
 
