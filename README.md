@@ -4,7 +4,8 @@
 
 ## Présentation
 
- Application Java simple qui permet à l'utilisateur d'ajouter des contacts à un répertoire téléphonique. 
+ Application Java simple qui permet à l'utilisateur d'ajouter des contacts à un répertoire téléphonique. Réalisée en suivant le tuto youtube de 
+@JirAWS.
 
 ## Technologies utilisées
 
